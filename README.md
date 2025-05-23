@@ -96,8 +96,8 @@ MIT (or specify your license)
 | What is the latest news about Apple?          | 1. Apple unveils new product lineup...<br>2. iPhone sales exceed expectations...<br>3. Apple invests in AI research... | 
 
 
-##screenshots
-![ss1](Screenshot (325).png?raw=true)
-![ss2](Screenshot (326).png?raw=true)
-![ss3](Screenshot (327).png?raw=true)
+## screenshots
+![ss1](/Screenshot (325).png?raw=true)
+![ss2](/Screenshot (326).png?raw=true)
+![ss3](/Screenshot (327).png?raw=true)
 
