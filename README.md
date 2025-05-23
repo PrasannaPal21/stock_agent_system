@@ -95,6 +95,9 @@ MIT (or specify your license)
 | How has Nvidia stock changed in the last 7 days?| From 2023-05-10 to 2023-05-17, the price changed from $280.00 to $295.00.<br>That's a change of 15.0 USD (5.36%). |
 | What is the latest news about Apple?          | 1. Apple unveils new product lineup...<br>2. iPhone sales exceed expectations...<br>3. Apple invests in AI research... | 
 
+## video demo link
+
+[https://drive.google.com/file/d/1vFlmnpjuPCkHRMN43pfi99YQPv-Zri4X/view?usp=sharing](https://drive.google.com/file/d/1vFlmnpjuPCkHRMN43pfi99YQPv-Zri4X/view?usp=sharing)
 
 ## screenshots
 ![Screenshot3](https://github.com/user-attachments/assets/41db9ce9-9881-443f-a75f-aef68538812d)
