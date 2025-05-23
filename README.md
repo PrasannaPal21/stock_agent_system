@@ -94,3 +94,10 @@ MIT (or specify your license)
 | What's happening with Palantir stock recently?| 1. Palantir announces new government contract...<br>2. Stock surges after earnings...<br>3. CEO interview highlights growth... |
 | How has Nvidia stock changed in the last 7 days?| From 2023-05-10 to 2023-05-17, the price changed from $280.00 to $295.00.<br>That's a change of 15.0 USD (5.36%). |
 | What is the latest news about Apple?          | 1. Apple unveils new product lineup...<br>2. iPhone sales exceed expectations...<br>3. Apple invests in AI research... | 
+
+
+##screenshots
+![ss1](/ss1.jpg?raw=true)
+![ss2](/ss2.jpg?raw=true)
+![ss3](/ss3.jpg?raw=true)
+
