@@ -97,7 +97,6 @@ MIT (or specify your license)
 
 
 ## screenshots
-![ss1](/Screenshot (325).png)
-![ss2](/Screenshot (326).png)
-![ss3](/Screenshot (327).png)
-
+![Screenshot3](https://github.com/user-attachments/assets/41db9ce9-9881-443f-a75f-aef68538812d)
+![Screenshot2](https://github.com/user-attachments/assets/b068c0f6-a864-4cfc-bbbd-13cad841224a)
+![Screenshot1](https://github.com/user-attachments/assets/8a375ed7-5ee0-47df-af88-f99f34f4305c)
