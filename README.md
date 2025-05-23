@@ -97,7 +97,7 @@ MIT (or specify your license)
 
 
 ##screenshots
-![ss1](/ss1.jpg?raw=true)
-![ss2](/ss2.jpg?raw=true)
-![ss3](/ss3.jpg?raw=true)
+![ss1](Screenshot (325).png?raw=true)
+![ss2](Screenshot (326).png?raw=true)
+![ss3](Screenshot (327).png?raw=true)
 
